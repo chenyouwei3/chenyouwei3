@@ -1,7 +1,7 @@
 ### Hi 👋,I'm chenyouwei
 
 -------------------------------------------------------------
-### Freshman,and loser
+### 
  - 🔭 I’m currently **unemployed**<br>
  - 🌱 I’m currently learning **GO** <br> 
  - 🌴 I’m planning to learn **Python**<br>
