@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/hanyucd/hanyucd/main/header.png)
 ### Hi ,Man!👋,I'm chenyouwei
  - 🔭 我是cyw,目前正在成都实习,目标是成为一名技术大佬<br>
  - 💻 2024.04 ~ 2024.08 在 绿盟科技 实习
